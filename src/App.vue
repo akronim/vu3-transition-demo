@@ -4,7 +4,7 @@
 
 <script lang="ts">
 import { defineComponent } from 'vue'
-import TransitionDemo from './components/TransitionDemo.vue'
+import TransitionDemo from './components/TransitionDemo2.vue'
 
 export default defineComponent({
   components: {
